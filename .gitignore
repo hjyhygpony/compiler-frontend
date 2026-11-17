@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Generated compiler outputs
+/output/
+/output_*/
+/tests/outputs/
+*.exe
+*.spec
+
+# Build output
+/dist/
+/build/
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# OS / archives
+.DS_Store
+Thumbs.db
+*.zip
+*.7z
+*.rar
